@@ -1,0 +1,36 @@
+# Byte-compiled / optimized files
+__pycache__/
+*.pyc
+*.pyo
+
+# Database files
+*.sqlite3
+
+# Media files
+media/
+
+# Static files
+staticfiles/
+
+# Secret settings
+secret_settings.py
+
+# Local development settings
+local_settings.py
+
+# Django migrations
+*/migrations/
+
+# IDE-specific files
+.vscode/
+.idea/
+
+# Environment files
+.env
+
+# Other generated files
+*.log
+*.swp
+
+# General
+.DS_Store
